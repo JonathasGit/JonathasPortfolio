@@ -15,6 +15,7 @@
 
 #sobre{ /*Aqui vai editar o Sobre mim */ 
     background-color: teal;
+    color: white;
 }
 
 #servico-menu{
@@ -28,18 +29,30 @@
 #contato-menu{
     background-color: turquoise;
 }
-
-
-
-
 #rodape{
     background-color: #252525;
     color: white;
 }
 
-
-
 .margin{
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+#cores{
+    color: white;
+  
+}
+#jonathas{
+    text-align:left;
+    margin-left: 100px;
+}
+
+#nomeJonathas{
+    text-align: left;
+    margin-left: 100px;
+    font-family: 'montserrat', sans-serif;
+    color: tomato;
+    font-size: 50px;
+
 }
