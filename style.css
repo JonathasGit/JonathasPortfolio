@@ -1,14 +1,35 @@
-.navbar{
+#inicio{
     background-color: red;
 }
 
-.quem-somos{
-    background-color: red;
+
+#sobre{ /*Aqui vai editar o Sobre mim */ 
+    background-color: teal;
 }
+
+#servico-menu{
+    background-color: #252525;
+    color: white;
+}
+#portfolio-menu {
+    background-color: tomato;
+}
+
+#contato-menu{
+    background-color: turquoise;
+}
+
+
+
+
+#rodape{
+    background-color: #252525;
+    color: white;
+}
+
+
+
 .margin{
     padding-top: 50px;
     padding-bottom: 50px;
-}
-#jonathas{ /*Aqui vai editar o Sobre mim */ 
-  
 }
