@@ -1,4 +1,4 @@
-#navbar{
+.navbar{
     background-color: red;
 }
 
@@ -7,4 +7,8 @@
 }
 .margin{
     padding-top: 50px;
+    padding-bottom: 50px;
+}
+#jonathas{ /*Aqui vai editar o Sobre mim */ 
+  
 }
