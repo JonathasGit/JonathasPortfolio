@@ -4,7 +4,12 @@
 }
 
 #inicio{
-    background-color: red;
+    color: white;
+    background-image: url("Imagens/Imagem\ de\ fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; /*Deixa a foto esticada na sessão toda */
+    height: 500px;
+    width: 100%;
 }
 
 
