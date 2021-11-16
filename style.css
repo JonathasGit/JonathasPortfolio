@@ -23,14 +23,15 @@
     color: white;
 }
 #portfolio-menu {
-    background-color: tomato;
+    background-color: teal;
 }
 
 #contato-menu{
-    background-color: turquoise;
+    background-color: #252525;
+    color: white;
 }
 #rodape{
-    background-color: #252525;
+    background-color: black;
     color: white;
 }
 
