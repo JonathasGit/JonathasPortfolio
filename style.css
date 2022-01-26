@@ -66,6 +66,15 @@
 
 #topoBtn{    
     bottom: 50px;
+    border-radius: 30px;
     right: 50px;
-    color: blue;
+    color: #333;
+    background:linear-gradient(to bottom, #ffffff 5%, #008080 100%);
+    border-color:#008080;
+    box-shadow:inset 0px 1px 0px 0px #fdf7f0;
+    text-shadow:0px 1px 0px #000000
+  }
+
+#topoBtn:hover {
+    background:linear-gradient(to bottom, #008080 5%, #ffffff 100%);
 }
