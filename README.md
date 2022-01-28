@@ -1,6 +1,11 @@
 <h1 align="center">🚧🚧Meu Portfolio🚧🚧</h1>
-Meu Portfólio pessoal sobre  programação:<br>
+Meu Portfólio pessoal sobre os trabalhos realizados na minha jornada como Desenvolvedor:<br>
 
+<h2 align="center">⚒️ Ferramentas e tecnologias utilizadas ⚒️ :</h2>
+
+Google Chrome<br>
+Visual Studio Code<br>
+<h2> </h2>
 
 <h4>:pushpin:Com código:</h4><br>
 Aulas dos cursos da Digital Innovation One;<br>
