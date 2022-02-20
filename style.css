@@ -27,7 +27,7 @@
 }
 
 #contato-menu{
-    background-color: #252525;
+    background-color: teal;
     color: white;
 }
 #rodape{
@@ -77,4 +77,12 @@
 
 #topoBtn:hover {
     background:linear-gradient(to bottom, #008080 5%, #ffffff 100%);
+}
+
+#linhaDoTempo{
+    background-color: #252525;
+}
+
+#txtLinhaDoTempo{
+    color: #ffffff;
 }
