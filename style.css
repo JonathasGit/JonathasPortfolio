@@ -113,9 +113,22 @@ li{
 
 #FotoSite1:hover{
     position: relative;
-    top:-5px;box-shadow:0 2px 2px #252525
+    top:-5px;
+    box-shadow:0 2px 2px #252525
 }
 
 #TituloPortfolio{
     color: #ffffff;
+}
+
+#txtDoPortfolio{
+    color: #ffffff;
+}
+
+#txtDoPortfolio:hover{
+    position: relative;
+    top:-5px;
+    text-transform: uppercase;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: azure;
 }
