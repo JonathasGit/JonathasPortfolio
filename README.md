@@ -19,6 +19,7 @@ Sites usando Wordpress e Elementor; <br>
 Landing Pages; <br>
 Lojas Virtuais; <br>
 Blogs em Wordpress; <br>
+Usado para POrtfolio Jothur Informática
 
 
 <p align="center">©️ 2022 - :octocat: JonathasGit </p>
